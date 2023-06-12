@@ -1,0 +1,162 @@
+{
+    "categorias": [
+        {
+          "id": "Cabello",
+          "nombre": "Cabello",
+          "color": "#FF00DD",
+          "descripcion": "Videos sobre el cuidado del Cabello."
+        },
+        {
+          "id": "Maquillaje",
+          "nombre": "Maquillaje",
+          "color": "#FF00DD",
+          "descripcion": "Videos sobre técnicas de Maquillaje."
+        },
+        {
+          "id": "moda",
+          "nombre": "Moda",
+          "color": "#FF00DD",
+          "descripcion": "Videos sobre la Moda."
+        },
+        {
+          "id": "unas",
+          "nombre": "Uñas",
+          "color": "#FF00DD",
+          "descripcion": "Videos sobre el cuidado de Uñas."
+        },
+        {
+          "id": "skincare",
+          "nombre": "Skin Care",
+          "color": "#FF00DD",
+          "descripcion": "Videos sobre Skin Care."
+        },
+        {
+          "id": "piel",
+          "nombre": "Piel",
+          "color": "#FF00DD",
+          "descripcion": "Videos sobre el cuidado de la Piel."
+        }
+      ],
+    "videos": 
+        [
+            {
+              "titulo": "COLECCION LA SIRENITA",
+              "videoUrl": "https://www.youtube.com/watch?v=xpiO0czdx14&t=7s",
+              "imageUrl": "https://img.youtube.com/vi/xpiO0czdx14/hddefault.jpg",
+              "categoria": "Maquillaje",
+              "descripcion": "Nos enseñan la nueva coleccion de La Sirenita"
+            },
+            {
+              "titulo": "COLECCION COTTON CANDY",
+              "videoUrl": "https://www.youtube.com/watch?v=svQtzQo4GnY",
+              "imageUrl": "https://img.youtube.com/vi/svQtzQo4GnY/hddefault.jpg",
+              "categoria": "Maquillaje",
+              "descripcion": "Colección Cotton Candy"
+            },
+            {
+              "titulo": "COLECCION FRIDA KAHLO",
+              "videoUrl": "https://www.youtube.com/watch?v=CDbx4VxI7K8",
+              "imageUrl": "https://img.youtube.com/vi/CDbx4VxI7K8/hddefault.jpg",
+              "categoria": "Maquillaje",
+              "descripcion": "COLECCION FRIDA KAHLO"
+            },
+            {
+              "titulo": "COLECCION BATMAN",
+              "videoUrl": "https://www.youtube.com/watch?v=jeuH8LGyzI8",
+              "imageUrl": "https://img.youtube.com/vi/jeuH8LGyzI8/hddefault.jpg",
+              "categoria": "Maquillaje",
+              "descripcion": "COLECCION BATMAN"
+            },
+            {
+              "titulo": "COLECCION HARRY POTTER",
+              "videoUrl": "https://www.youtube.com/watch?v=s7S2fh_5wt0",
+              "imageUrl": "https://img.youtube.com/vi/s7S2fh_5w/hddefault.jpg",
+              "categoria": "Maquillaje",
+              "descripcion": "COLECCION HARRY POTTER"
+            },
+            {
+              "titulo": "CUIDADOS DEL CABELLO",
+              "videoUrl": "https://www.youtube.com/watch?v=Kk30YdUwxvg",
+              "imageUrl": "https://img.youtube.com/vi/Kk30YdUwxvg/hddefault.jpg",
+              "categoria": "Cabello",
+              "description": "CUIDADOS DEL CABELLO"
+            },
+            {
+              "titulo": "CUIDADOS DESPUES DE LA KERATINA Y DECOLORACION",
+              "videoUrl": "https://www.youtube.com/watch?v=5N594AsC1wY",
+              "imageUrl": "https://img.youtube.com/vi/5N594AsC1wY/hddefault.jpg",
+              "categoria": "Cabello",
+              "description": "CUIDADOS DESPUES DE LA KERATINA Y DECOLORACION"
+            },
+            {
+              "titulo": "MASCARILLAS PARA EL CABELLO",
+              "videoUrl": "https://www.youtube.com/watch?v=A1Ca-XfdnxQ",
+              "imageUrl": "https://img.youtube.com/vi/A1Ca-XfdnxQ/hddefault.jpg",
+              "categoria": "Cabello",
+              "description": "MASCARILLAS PARA EL CABELLO"
+            },
+            {
+              "titulo": "Tutorial alaciado de pelo",
+              "videoUrl": "https://www.youtube.com/watch?v=OrcsNlNnIg0",
+              "imageUrl": "https://img.youtube.com/vi/OrcsNlNnIg0/hddefault.jpg",
+              "categoria": "Cabello",
+              "description": "Tutorial alaciado de pelo"
+            },
+            {
+              "titulo": "¿Caída intensa de cabello? ",
+              "videoUrl": "https://www.youtube.com/watch?v=F1aGnxiSy8o",
+              "imageUrl": "https://img.youtube.com/vi/F1aGnxiSy8o/hddefault.jpg",
+              "categoria": "Cabello",
+              "description": "Caida intensa del Cabello"
+            },
+            {
+              "titulo": "COMO ARMAR TU PRIMER RUTINA DIARIA",
+              "videoUrl": "https://www.youtube.com/watch?v=d4RB0_R59EY",
+              "imageUrl": "https://img.youtube.com/vi/d4RB0_R59EY/hddefault.jpg",
+              "categoria": "Skin Care",
+              "description": "COMO ARMAR TU PRIMER RUTINA DIARIA"
+            },
+            {
+              "titulo": "Rutina básica para el cuidado de la piel",
+              "videoUrl": "https://www.youtube.com/watch?v=zgTc72BOMyA",
+              "imageUrl": "https://img.youtube.com/vi/zgTc72BOMyA/hddefault.jpg",
+              "categoria": "Skin Care",
+              "description": "Rutina básica para el cuidado de la piel"
+            },
+            {
+              "titulo": "La Importancia de la Protección Solar",
+              "videoUrl": "https://www.youtube.com/watch?v=LwZmTiiv7Lg",
+              "imageUrl": "https://img.youtube.com/vi/LwZmTiiv7Lg/hddefault.jpg",
+              "categoria": "Piel",
+              "description": "La Importancia de la Protección Solar"
+            },
+            {
+              "titulo": "Que LLEVAR a la PLAYA, Tips de una Dermatóloga",
+              "videoUrl": "https://www.youtube.com/watch?v=UVxMTlwhHI8",
+              "imageUrl": "https://img.youtube.com/vi/UVxMTlwhHI8/hddefault.jpg",
+              "categoria": "Piel",
+              "description": "Que LLEVAR a la PLAYA, Tips de una Dermatóloga"
+            },
+            {
+              "titulo": "Nail Care, Tips para el cuidado de las uñas",
+              "videoUrl": "https://www.youtube.com/watch?v=6EwsguM8ldA",
+              "imageUrl": "https://img.youtube.com/vi/6EwsguM8ldA/hddefault.jpg",
+              "categoria": "Uñas",
+              "description": "Nail Care, Tips para el cuidado de las uñas"
+            },
+            {
+              "titulo": "MANICURE PASO A PASO ",
+              "videoUrl": "https://www.youtube.com/watch?v=5in4D1tRobs",
+              "imageUrl": "https://img.youtube.com/vi/5in4D1tRobs/hddefault.jpg",
+              "categoria": "Uñas",
+              "description": "MANICURE PASO A PASO"
+            },
+            {
+              "titulo": "26 IDEAS DE MODA PARA TRANSFORMAR TU APARIENCIA",
+              "videoUrl": "https://www.youtube.com/watch?v=7s-So36AMM4",
+              "imageUrl": "https://img.youtube.com/vi/7s-So36AMM4/hddefault.jpg",
+              "categoria": "Moda",
+              "description": "26 IDEAS DE MODA PARA TRANSFORMAR TU APARIENCIA"
+            }
+          ]
+  }
